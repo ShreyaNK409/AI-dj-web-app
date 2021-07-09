@@ -1,0 +1,66 @@
+body
+{
+    background-size: cover;
+}
+
+.hed
+{
+    background-color: cornflowerblue;
+    color: ghostwhite;
+    margin-top: 0;
+    font-size: 35px;
+}
+
+.note
+{
+    background-color: ghostwhite;
+    color: black;
+    font-size:20px;
+}
+
+.divvol
+{
+float: left;
+}
+
+.divspeed
+{
+float: right;
+}
+
+.disk
+{
+    width:200px;
+    border-radius: 100px;
+}
+
+#vol
+{
+  background-color: cornflowerblue ;
+  color: aliceblue;
+  margin: 15px;
+  border-radius: 20px;
+}
+
+#sped
+{
+  background-color: cornflowerblue ;
+  color: aliceblue;
+  margin: 15px;
+  border-radius: 20px;
+}
+
+.te
+{
+  background-color:cornflowerblue ;
+  color: aliceblue;
+  width: 120px;
+  border-radius: 80px;
+  font-size: 25px;
+}
+
+canvas
+{
+  border-radius: 15px;
+  border:5px solid whitesmoke;
+}
